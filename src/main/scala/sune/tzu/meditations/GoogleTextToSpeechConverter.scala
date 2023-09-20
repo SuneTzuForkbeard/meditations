@@ -1,21 +1,27 @@
 package sune.tzu.meditations
 
-import com.google.auth.oauth2.{AccessToken, GoogleCredentials}
-import com.google.cloud.texttospeech.v1._
+import org.apache.commons.io.FileUtils
 
-import java.io.{File, FileOutputStream}
-import scala.io.Source
+import java.io.{File}
 
 object GoogleTextToSpeechConverter {
 
   private val dataFolder = new File("""C:\Users\sune_\OneDrive\Dokumenter\dharma\meditations\Chapter02-ThroughTheFields""")
   private val fileNamePrefix = "Chapter 02-Through the fields"
   private val inputFile = new File(dataFolder, s"$fileNamePrefix.txt")
-  private val outputFileName = s"$fileNamePrefix-${System.currentTimeMillis()}.mp3"
 
   def main(args: Array[String]): Unit = {
+    val inputFileText = FileUtils.readFileToString(inputFile, "UTF-8")
     val spokenParts = SsmlParser.parse(inputFile)
-    spokenParts.foreach(println)
+    GoogleAPI.generateAudio(spokenParts) match {
+      case Left(errs) => {
+        println("Following errors occurred:")
+        errs.foreach(err => println(s" $err"))
+      }
+      case Right(res) => {
+        FileExporter.exportData(inputFile.getName, inputFileText, res, dataFolder)
+      }
+    }
 
 
 

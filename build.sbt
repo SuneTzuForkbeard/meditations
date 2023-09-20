@@ -12,7 +12,8 @@ lazy val root = (project in file("."))
       munit % Test,
       "com.google.cloud" % "google-cloud-texttospeech" % "2.24.0",
       "com.google.cloud" % "google-cloud-secretmanager" % "2.23.0",
-      "org.scala-lang.modules" %% "scala-xml" % "2.2.0"
+      "org.scala-lang.modules" %% "scala-xml" % "2.2.0",
+      "commons-io" % "commons-io" % "2.13.0"
     )
   )
 
