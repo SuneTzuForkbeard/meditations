@@ -1,0 +1,2 @@
+# meditations
+For generating meditations
