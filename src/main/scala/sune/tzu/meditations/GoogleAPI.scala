@@ -77,7 +77,7 @@ object GoogleAPI {
   }
 
   def validateVoice(part: SpokenPart) = part match {
-    case SpokenPart(spBy, _, _) if !VoiceDefinitions.voiceMap.contains(spBy) => Some(s"Voice with name: ${spBy} is not defined")
+    case SpokenPart(spBy, _, _,_) if !VoiceDefinitions.voiceMap.contains(spBy) => Some(s"Voice with name: ${spBy} is not defined")
     case _ => None
   }
 

@@ -6,9 +6,12 @@ import java.io.{File}
 
 object GoogleTextToSpeechConverter {
 
-  private val dataFolder = new File("""C:\Users\sune_\OneDrive\Dokumenter\dharma\meditations\Chapter02-ThroughTheFields""")
-  private val fileNamePrefix = "Chapter 02-Through the fields"
+  private val dataFolder = new File("""C:\Users\sune_\OneDrive\Dokumenter\dharma\meditations\Chapter04-TheHighrise""")
+  private val fileNamePrefix = "Chapter 04-TheHighrise"
   private val inputFile = new File(dataFolder, s"$fileNamePrefix.txt")
+  private val outputFolder = new File(s"c:\\temp\\meditation-gen\\$fileNamePrefix")
+  if(!outputFolder.exists)
+    outputFolder.mkdirs()
 
   def main(args: Array[String]): Unit = {
     val inputFileText = FileUtils.readFileToString(inputFile, "UTF-8")
@@ -19,7 +22,7 @@ object GoogleTextToSpeechConverter {
         errs.foreach(err => println(s" $err"))
       }
       case Right(res) => {
-        FileExporter.exportData(inputFile.getName, inputFileText, res, dataFolder)
+        FileExporter.exportData(inputFile.getName, inputFileText, res, outputFolder)
       }
     }
 
