@@ -1,0 +1,186 @@
+<chapter>
+	<spokenPart spokenBy="narrator" name="WelcomeBack">
+	 <p>
+	    Welcome back to the meditation series that focuses on increasing the practitioners daily agility and influence.
+		Today we will be taking a step further into the depths of your consciousness, and along the way, we will contemplate life and death, the importance and boundaries of self-sacrifice along with crippling drug addiction. You are in for a pleasent flight with very little turbulence, and we expect to arrive at our destination in roughly 13 minutes.
+        You can perform this meditation either sitting or lying down. Both will do you good.		
+	 </p>
+	 <p>
+	    If you haven't done so already, assume a comfortable position and make sure that you are not disturbed for the next 15 minutes. 
+	 </p>	 
+	 <p>
+	    Close your eyes. 
+		We will begin by repeating the principles of Zen Breathing that we practiced during our last meditation. 	
+		I will tell you to take a deep breath in while I count to 6. I will then tell you to breathe out while I count to 9. Rinse and repeat. Zen Breathing will comense now. <break time="1000ms"/>
+
+		Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+		Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+
+		Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+		Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+        
+		<break time="1000ms"/>
+		Very good
+	 </p>
+     <p>
+	    In terms of breathing techniques, todays meditation will be very simple as we will mostly be utilizing Zen Breathing and your body's natural restful breathing. During our adventure - when not specifically told to breathe in a certain manner - feel free to utilize whichever of the two suits you. Both will do you good.
+     </p>
+    </spokenPart>
+    <spokenPart spokenBy="narrator" name="IntroToHoldingTheBreath">
+     <p>
+	    Before we return to your happy place, I want to play a little game with you. <break time="1000ms"/>
+		I will give the order: <prosody rate="65%"><emphasis level="strong">HOLD</emphasis></prosody>
+		and you will hold your breath until I tell you to commence breathing.<break time="1000ms"/>
+		Here it comes: <prosody rate="65%"><emphasis level="strong">HOLD</emphasis></prosody>
+		<break time="10000ms"/>
+		Keep holding
+		<break time="7000ms"/>
+		Hang in there
+		<break time="5000ms"/>
+		Just 5 more seconds
+		<break time="5000ms"/>
+		
+        Commence Zen Breathing <break time="500ms"/>
+		Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+		Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+		<break time="1000ms"/>
+		Very good. Time for take-off.		
+     </p>	 
+    </spokenPart>
+    <spokenPart spokenBy="narrator" name="BackInTheGarden">
+	 <p>
+	    We are back in your garden. Your happy place. You awaken on the edge of the poppy fields, in the position where you previously beat a hobo to death with your bare hands. There are no signs of the dead man's body, and if it wasn't for the minor bruises on your knuckles, you might question whether the incident ever occured. For a brief moment of panic, you thought you might have to start off your day in your happy place with digging, but the realization that the universe took care of the clean-up, puts your mind at ease. It's like waking up at 7 o'clock in the morning to find, that the last ones out the door at your house rave last night took care of taking out the empty bottles and putting out any minor house-fires, while you were busy puking your guts out.
+	 </p>
+	 <p>
+	    Looking out on the beautiful blossoming opium poppies on the fields, you start to contemplete the bodhisattva promise you made on the day of being jumped-in to buddhism. 
+		<prosody rate="85%"><emphasis level="strong">May I abandon all harmful actions</emphasis></prosody>. How far are you expected to take that promise?
+		Surely, you can't be expected to never perform a harmful action, if for instance your life - or the life of a loved one - is threatened, can you? And what about rampant imaginary mental hobos, defecating on you opium poppies? 
+		So your teacher told you, that you can always re-establish the bodhisattva promise if you accidentally break it, which is of course a great catch-all exception handling approach to not completely losing your claim to your buddha nature, but in for instance programming, it would be considered horrible practice to have the need for such catch-all error-handling.	
+	 </p>	 
+     <p>
+		Our Buddha once, in one of his many lives leading up to him discovering The Way, came across a starving tiger and her cubs, and out of fear that the mother and her cubs would starve to death, he cut open his stomach and fed them his intestines and whatever leftovers he found in there. That seems a bit extreme but it stresses the value of all life. But how far could you be expected to take this idea?
+		Surely, being stranded on a desserted island with only 1 other person and absolutely no other source of food, the Buddha would have been prepared to serve his campanion prime cuts of arm, leg and whatever other extremeties he could rid himself of while still being able to take care of himself, until being forced to make his final jump into the flames to save his fellow castaway from starvation. Of that, there can be no doubt. 
+		But would he be willing to make the same sacrifice for his obese friend who, after going too heavy on the hookah, had a craving for barbeque but did not <emphasis level="strong">"feel like getting up and making a snack"</emphasis>?
+		Would he commit himself to torture and eventual murder by a serial killer who was pushing the retirement age and had become too slow and weak to catch prey, in order to save the poor fella from boredom?
+	  </p>
+	</spokenPart>
+    <spokenPart spokenBy="narrator" name="LeavingTheGarden">
+	 <p>
+	    These are all very valid questions, but the more you contemplate them, the more evident it becomes that you won't be able to find the answers to them here in the garden, so you decide to go on an expedition.
+		There is a path leading through the poppy fields, and you get up with the intent to follow the path to see where it leades. Just as you start off on the path, you notice on the ground a hunting knife roughly 30 centimeters - or 11.8 inches - in length. You squat down to pick it up, but then you suddenly remember your bodhisattva promise, and ask yourself: "would I be bringing this knife with the intent of carving out tiger-snacks or with the intent to injure my fellow man?"
+		You decide to have faith that the universe will keep you safe, and leave the hunting knife on the ground, as you set off.
+	 </p>
+	 <p>
+	    You walk along the path, through incredible fields of opium poppies for an indeterminate amount of time, until finding yourself at the entrance to an oak tree forrest. The marked-out path that you have been following so far extends into the forrest, and you decide to continue along this path in your search for enlightenment. 
+	 </p>
+	 <p>
+	    The hours go by and as the sun begins to set, the path has lead you to the entrance to a pine tree forrest. For a brief moment, you start to question whether the universe knows what it is doing in keeping you safe, but seeing as this universe is all inside of yourself, the implications of it being faulty somehow seem too heavy, and you decide to follow the path of least resistence leading into the dark pine tree forrest.  
+	 </p>
+	 <p>
+        Traversing the path through the dark pine tree forrest is a lot more difficult than walking through the poppy fields and the oak tree forrest, and you start to wonder if maybe it is time to embrace the inevitability of the day ending and accept the ground as your bed for the night. 
+	 </p>	 
+	 <p>
+        Let me at this point remind you to keep a low-key focus on your breathing. You should either be breathing Zen, or following your bodies own slow restful breathing.
+	 </p>
+	 <p>
+        "I wonder what kind of imaginary bugs and critters roam the forrest bed at night in this imaginary forrest" you ponder, but before you can really get into immersing yourself in intrusive thoughts of giant spiders and flesh-eating larvae, you notice a camp fire some 200 meters - or 219 yards - or so away, and naturally decide to check it out.    
+	 </p>	 
+	</spokenPart>
+    <spokenPart spokenBy="narrator" name="TheCamp">
+	 <p>
+	   As you reach the fire you find a small desserted camp. There is no real sign of any human activity, but you reckon that whoever build the campfire is bound to return, and sit down to meditate on the flames as you wait for them to return. Commence Zen Breathing <break time="1000ms"/>
+		Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+		Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+	 </p>	 
+	</spokenPart>
+    <spokenPart spokenBy="junkie" name="TheStranger">
+	 <p>
+       'Ello, gov'nor! What's crackin'?
+	   What brings you to these here parts of the woods on such a splendid night as this?
+	   You are off course free to stay. The more the merrier as me nanny use' to say!
+	   Would you like a biscuit, or a cup o' tea?
+	 </p>	 
+	</spokenPart>
+    <spokenPart spokenBy="narrator" name="Introductions">
+	 <p>
+       You look at the stranger that is standing beside you. His face seems kind, his body is skinny and his slightly crouched-over composure leads you to conclude that the stranger is at-least relatively unknown to the martial arts. You decide that he is not a threat and opt to stay seated. 
+	 </p>
+	 <p>
+       "I was just out taking a stroll through my opium fields when I came across this forrest, and decided to follow the path of enlightenment to see where it leads" you tell the stranger.
+	 </p>	 
+	</spokenPart>
+    <spokenPart spokenBy="junkie" name="AFellowBuddhist">
+	 <p>
+       A fellow buddhist I see. How splendid.
+	   This path of enlightenment is sure to do ya good lad. 
+	 </p>	 
+	 <p>
+       Say lad, I was just about to check up on my traps and snares, and see what I might have for dinner. You are more than welcome to join me for dinner. 
+       Would ya mind keeping an eye on the fire while I'm gone?
+       And feel free to have a smoke. <break time="1000ms"/>	   
+	   Don't worry, I know that it is unfitting for a man to smoke on another mans pipe, so I always keep a guest pipe around. It's been thoroughly cleaned since my last visitor. Here ya go. 
+	   And here is my special blend tobacco.
+	   I'll be back in a bit.
+	 </p>	 	 
+	</spokenPart>	
+    <spokenPart spokenBy="narrator" name="HavingASmoke">
+	 <p>
+	   You quit smoking a long time ago, and haven't missed it since, but the pipe looks clean and you fear that it may cause for an awkward silence if the stranger asks you for a review of his special blend and you didn't at least try it, so you decide to light up. <break time="2500ms"/>
+	   The smoke tastes... funny, and before long you start to feel a little queasy, but at the same time you start to feel a nice  <prosody rate="80%">calm slowly flowing from your chest to</prosody> <prosody rate="60%">every part of your body. 
+	   Aaarh... this is...</prosody> <prosody rate="40%">nice</prosody>
+	   <prosody rate="60%">A little Zen Breathing might highten this sensation</prosody><break time="1000ms"/>
+
+       <prosody rate="60%">Breathe in</prosody><prosody rate="45%">1, 2, 3, 4, 5 , 6</prosody>
+       <prosody rate="60%">Breathe out</prosody><prosody rate="45%">1, 2, 3, 4, 5</prosody>
+	   
+	   Your little high is abruptly interrupted by the strange sensation of a noose tightening around your neck, and before you can register what is going on, much less muster a proper response to it, you are being dragged backwards by the rope around you neck, and clung up against a tree.
+	 </p>
+	</spokenPart>	
+    <spokenPart spokenBy="junkie" name="OwnerOfTheFields">
+	 <p>
+        <prosody rate="85%"><emphasis level="strong">Your</emphasis></prosody> opium fields?
+	 </p>	 
+	 <p>
+        Let's see who is the <emphasis level="strong">proper</emphasis> owner of the fields once I have strangled you to death and gutted ya.
+	 </p>	 	 
+	</spokenPart>		
+    <spokenPart spokenBy="narrator" name="TheGravityOfTheSituation">
+	 <p>
+       You have been strung up by an opium-smoking fiend in the darkest part of your mental forrest! I need you to understand the gravity of the situation, so I need you to hold your breath in order to experience the bodily sensation of this here scenario, while I cut it out for you. Get ready to hold your breath. 
+	   <prosody rate="65%"><emphasis level="strong">HOLD</emphasis></prosody>
+	 </p>
+	 <p>
+	   <prosody rate="125%">
+		   You had the option to bring a perfectly fine hunting knife, but you chose to put your trust in the universe to keep you safe, and now we are here. Suffocating.
+		   Hold it in.
+		   If you had known what was to come, would you have brought the knife? Would you have chosen to sacrifice your life, so that this crazy fiend could have un-disturbed access to harvest your opium poppies?
+		   Keep it in just a little longer.
+		   You see, it is OK to do the old trust-fall into the arms of your fellow man and woman, but you have to reserve this type of unprotected trust-fall for the essential people of your life, the people that you need to be able to trust for life to carry any meaning anyways. For all the rest, it is OK to try with trust first but keep a way out. I need you to understand this!
+       </prosody>		   
+	 </p>
+	 <p>
+       Ok, now you may breathe, and while you do so, I am going to show you something cool. You see, time and knowledge works differently in here. Now that you have learned the importance of keeping a way out of getting cornered, take out that hunting knife you tied to your belt before leaving your garden. Good!
+       Now stab the guy in the throat; while he is busy trying to figure out what to do about that new entrance hole in his throat, you have more than enough time to cut yourself free.	   
+	   Good! Now finish him.
+	 </p>
+	 <p>
+	   You throw yourself at the fiend, stabbing him in whatever part of his body the hand that <emphasis level="strong">isn't</emphasis> forming a meat bandaid around his neck is not protecting, before you ultimately tackle him and mount his chest. Now killer, we both know that this man has to die and as was the case for the lunatic hobo, he is just a representation of something inside yourself, so killing him is not a big deal, but <emphasis level="strong">the way</emphasis> in which you kill him is. I need you to kill him with compassion instead of hate. Let's do a single round of Zen Breathing first <break time="1000ms"/>
+		Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+		Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody><break time="1000ms"/>
+	   Good! Now, hold his head to one side with your free hand, and stab the knife a couple of times through the part of the neck that is just below the cranium, in order to sever the brain stem from his spinal chord and end his suffering. 
+	   Good! Now: Namaste!
+	 </p>
+	</spokenPart>	
+    <spokenPart spokenBy="narrator" name="TheEnd">
+	 <p>
+	   Feeling fatigued from a long and eventful day, you decide to lie down next to the campfire for a couple of Zen Breaths, before returning to the real world. Commense Zen Breathing<break time="1000ms"/>
+		Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+		Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+
+		Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+		Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+		<break time="1000ms"/>
+       Refreshed from another energizing experience in your mental universe, you are ready to take your adventures out into the real world. But don't worry. We will soon be back on the path to enlightenment. Go get 'em killer.
+	 </p>
+	</spokenPart>	
+</chapter>

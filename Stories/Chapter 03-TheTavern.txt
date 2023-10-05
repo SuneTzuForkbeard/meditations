@@ -1,0 +1,367 @@
+<chapter>
+	<spokenPart spokenBy="narrator" name="WelcomeBack">
+	 <p>
+	    Welcome back to the meditation series that focuses on increasing the practitioners daily agility and influence.
+		Today, we will be taking our explorations into the area surrounding your happy place. Up until now, you have done a good job at clearing the obstacles we've encountered along the way using the correct measure of force, and you deserve a break from the killings. This meditation will contain a minimum of violence, but you are in for quite a ride nonetheless.
+        You can perform this meditation either sitting or lying down. Both will do you good.		
+	 </p>
+	 <p>
+	    If you haven't done so already, assume a comfortable position and make sure that you are not disturbed for the next 15 minutes. 
+	 </p>	 
+    </spokenPart>
+    
+	<spokenPart spokenBy="narrator" name="IntroToWhatWasThatBreathing">
+	 <p>
+	    Close your eyes. 
+		Before we return to your mental wonderland, I will introduce you to a new type of breathing, called "What was that?"-breathing. 
+	 </p>
+	 <p>
+	    Imagine that you are a 17 year old pothead who got caught smoking marijuana at school, and now your parents have sent you off to summer camp for religious re-indoctrination. 
+		Feeling bummed out from 3 hours of mass and choir, you decide to go for a walk when you suddently catch a faint but very well known smell: REEFER. 
+		I will give the command: "What was that?" and you will slowly breathe in through your nose, as if to determine the direction of the smell, while I count to 10.
+		<break time="1000ms"/>
+		What was that? <prosody rate="85%">1, 2, 3, 4, 5, 6, 7, 8, 9, 10</prosody>
+		<break time="1000ms"/>
+		Very good. We'll do one more round. Find that Mary-Jane.
+		<break time="1000ms"/>
+		What was that? <prosody rate="85%">1, 2, 3, 4, 5, 6, 7, 8, 9, 10</prosody>
+		<break time="1000ms"/>
+		Perfect. Now let's head off to Wonderland.
+	 </p>
+    </spokenPart>
+	
+    <spokenPart spokenBy="narrator" name="BackInTheForrest">
+	 <p>
+	    You wake up in the depths of the forrest, and even through the thick crowns of the trees it is easy to see that today is another bright and sunny day. As we have come to expect in this place, the body of the opium fiend is nowhere to be found but luckily, you still have your hunting knife attached to your belt. You get up and prepare yourself for another day of walking. Being the responsible buddhist that you are, you put out the fire with your kidney excretions.
+	 </p>
+	 <p>
+	    Finding your way back to the Path of Enlightenment is easy in the daylight, and in less than an hour of walking, you reach a much less dense and much brighter part of the forrest until finally exiting the forrest onto a green and flowery meadow. You have no idea what type of flowers these are, and come to think about it, your knowledge of botany is pretty much limited to being able to distinguish high-yielding White Persian opium poppies from the type of Thebaine-rich poppies that will leave you with the Ol' Blue Kiss of Santa Muerte.  
+	 </p>
+	 <p>
+	    In order to squeeze the maximum amount of enjoyment out of this moment, you opt for a couple of rounds of "What was that?"-breathing as you progress along the path. Get ready.
+		<break time="1000ms"/>
+		What was that? <prosody rate="85%">1, 2, 3, 4, 5, 6, 7, 8, 9, 10</prosody>
+		<break time="1000ms"/>
+		Let's have another.
+		<break time="1000ms"/>
+		What was that? <prosody rate="85%">1, 2, 3, 4, 5, 6, 7, 8, 9, 10</prosody>
+	 </p>	 
+    </spokenPart>
+	
+    <spokenPart spokenBy="narrator" name="TheSmallTown">
+	 <p>
+	    As you reach the top of a small hill, you notice a town not far ahead in the distance, and naturally decide to go and check it out. Describing the town in detail really wouldn't suit a meditation format such as this, but let me just say that it has the sort of old-English small town feel to it that makes you almost expect to find a murdered priest and Chief Inspector Barnaby out running errands for the missus.
+	 </p>	 	 
+	 <p>
+	    As we make our approach on the town, I want to take the opportunity to explain a few things to you. You see, the garden and the forrest, they are a part of you. The garden is your happy place. This is where you cultivate your dreams and wishes for the future. The forrest is also a part of you, though a part of you that you seldomly explore and where the darker sides of your personality resides. The hobo that you killed, in all  likelihood was not a mind-traveller but rather the side of you that procrastinates and keeps you from realizing your goals. The opium-smoking fiend in the forrest... well, he represents the opium-smoking fiend within yourself. You killed the both of them but in the morning their corpses were gone, because your victory over these parts of your personality is never final and both can resurface in the future, but at least now you are able to recognize them, and have learned to carry a hunting knife on you when pertinent. 
+	 </p>
+	 <p>
+	    I don't know what you peeing on the campfire was all about. That's just you I guess.
+	 </p>	 
+	 <p>
+	    Now, the people that you will meet in town, they are not you. They are not really external from you either, but rather, they are a projection of the experiences that you have had in the real world. A sort of manifestation of your expectation to other people. 
+	 </p>
+	 <p>
+	    The town is a little different from what you might expect from a small town, and we will take a closer look into what that means in a later meditation, but for now we will stick to the old part of town, namely, we will visit this here old tavern. It's Cuban Day, so you should feel right at home. 
+	 </p>
+	</spokenPart>
+
+    <spokenPart spokenBy="narrator" name="TheTavern">
+	 <p>
+	    People really take Cuban Day serious in town, don't they? Are you feeling a little under-dressed for the occasion? Let's fix that.
+	 </p>	 	 
+	 <p>
+		<break time="1000ms"/>
+	    There you go! Muay Thai shorts, Havana shirt and a chef's hat.
+		<break time="700ms"/>
+		Don't worry, it will all make sense eventually.
+	 </p>	 	 	 
+	 <p>
+		<break time="1000ms"/>
+	    Now, take a look around. 
+		<break time="800ms"/>
+		Ah yes, there she is. 
+		<break time="500ms"/>
+		I'm not going to describe her to you, because you likely have your own definition of attractiveness and what that word means in terms of height, hair color and BMI, but let me simply point out that the black dress she is wearing is fitted so tightly around her, that you would think she was dipped into the mighty tight-body-dress-pot of the Gods like another Achilleus or Obelix. Oh, and she is coming your way!
+	 </p>	 	 	 
+	</spokenPart>
+    <spokenPart spokenBy="mujer" name="DialogDoYouWantToDance">
+	 <p>
+		¿Quieres bailar conmigo?
+	 </p>	 	 
+	</spokenPart>
+    <spokenPart spokenBy="subject" name="DialogWithAllMyHeart">
+	 <p>
+	    ¡Órale!
+		¡Con todo mi corazon!
+	 </p>	 	 
+	</spokenPart>
+    <spokenPart spokenBy="mujer" name="DialogDoYouSalsa">
+	 <p>
+		¿Sabes bailar la salsa?
+	 </p>	 	 
+	</spokenPart>
+    <spokenPart spokenBy="subject" name="DialogOfCourse">
+	 <p>
+	    ¡Por supuesto que sí!
+		¡Soy un hombre civilizado!
+	 </p>	 	 
+	</spokenPart>
+	
+    <spokenPart spokenBy="narrator" name="TheDance_OntoTheDanceFloor">
+	 <p>
+	    You take her hand, and lead her onto the dance floor. You remember what your teacher told you: always start in closed position. You don't just go around guapeaing and turning about women you don't know. 
+	 </p>	 	 
+	</spokenPart>
+
+    <spokenPart spokenBy="narrator" name="TheDance_NiceAndEasy">
+	 <p>
+	    That's it! Nice and easy. Get a feel for how she moves. 
+	 </p>	 	 
+	</spokenPart>
+	
+    <spokenPart spokenBy="narrator" name="TheDance_HerHand">
+	 <p>
+	    Feel her right hand in your left hand.  Feel how soft it is. 
+	 </p>	 	 	 
+	 <p>
+	    Some of the women you have danced with have had big hands. Some of them have had very cold hands, while others have had incredibly warm and sweaty hands. 
+	 </p>	 	 	 
+	 <p>
+	    Her hand is just right. If this was a fairytale and you had long golden locks, her hand would have been the bed of a middle-sized bear; perfect!
+	 </p>	 	 	 
+	 <p>
+	    Feel her perfect hand in your left hand.
+	 </p>	 	 	 
+	</spokenPart>
+
+    <spokenPart spokenBy="narrator" name="TheDance_TheConnection">
+	 <p>
+       Your right hand has a firm connection to her left shoulder-blade, with her left arm on top of your right arm, creating a perfect connection between the two of you. You are able to communicate every intention perfectly through the transmission created by your arms and hands. When you move forward, she immediately picks up on it, through the transmission of your legs' energy through your upper-body connection. 
+	 </p>	 	 	 
+	</spokenPart>
+
+    <spokenPart spokenBy="narrator" name="TheDance_OneTwoThree">
+	 <p>
+         <prosody rate="85%">1, 2, 3</prosody>
+	 </p>	 	 	 
+	</spokenPart>
+	
+    <spokenPart spokenBy="narrator" name="TheDance_FiveSixSeven">
+	 <p>
+         <prosody rate="85%">5,6,7</prosody>
+	 </p>	 	 	 
+	</spokenPart>
+
+    <spokenPart spokenBy="narrator" name="TheDance_TakingItAllIn">
+	 <p>
+       You close your eyes as you move about on the dance floor, in order to take it all in without the mental processing of visual stimuli taking up resources. 
+	 </p>	 	 	 
+	</spokenPart>
+
+    <spokenPart spokenBy="narrator" name="TheDance_WhatWasThatBreathing">
+	 <p>
+        Notice how good she smells. It's time for some "What was that?"-breathing. 
+		<break time="1000ms"/>
+		What was that? <prosody rate="85%">1, 2, 3, 4, 5, 6, 7, 8, 9, 10</prosody>
+		<break time="1000ms"/>
+	 </p>	 	 	 
+	</spokenPart>
+	
+    <spokenPart spokenBy="narrator" name="TheDance_TakingItFurther">
+	 <p>
+       You are no longer strangers. You are not really familiars either, but having established a connection you feel that you know some part of her, and now seems to be a good time to evolve the dance, so you engage a "Dile que no", in order to setup for the Guapea position. 
+	 </p>
+	 <p>
+       You raise your hand ever so slightly, which she picks up on, and does an outside turn. Perfect!
+	 </p>	 
+	</spokenPart>
+
+    <spokenPart spokenBy="narrator" name="TheDance_Enchufla">
+	 <p>
+       You lead her into an "Enchufla", followed by a "Sácala" and a "Dile que no"
+	 </p>
+	</spokenPart>	
+	
+    <spokenPart spokenBy="narrator" name="TheDance_Interruption">
+	 <p>
+       Taking a couple of counts in "Guapea", you are contemplating whether to follow up with "El Uno" or "El Dos", when suddenly
+	 </p>
+	</spokenPart>	
+	
+    <spokenPart spokenBy="subject" name="DialogWhyYouHitMe">
+	 <p>
+	    ¡Mierda de la gran puta madre de Diós!
+		¿Por qué me golpiste?
+	 </p>	 	 
+	</spokenPart>
+
+
+    <spokenPart spokenBy="mujer" name="DialogIThoughtYouSovs">
+	 <p>
+		¡Lo siento mucho!
+		Creí que supiera de Sovs.
+	 </p>	 	 
+	</spokenPart>
+
+    <spokenPart spokenBy="subject" name="DialogWhatIsSovs">
+	 <p>
+	    ¿Qué es Sovs?
+		¿Es una manera de baile?
+	 </p>	 	 
+	</spokenPart>
+
+    <spokenPart spokenBy="mujer" name="DialogIllExplainSovs1">
+	 <p>
+		¡Sí, sí!
+		Es el baile de más de moda ahora mismo. 
+	 </p>	 	 
+	 <p>
+		Fue inventado por un hombre danés loco, cuando publicó el "Manifesto de Sovs - Simrebogen" al término del año 2023.
+        ¿Hombre?: ¡loco!
+        ¿El baile de Sovs?: ¡tan genial!		
+	 </p>	 	 	 
+	</spokenPart>
+
+    <spokenPart spokenBy="narrator" name="TheDance_NarratorExplains">
+	 <p>
+       She explains the principles of Sovs to you, how it originated from Cuban Salsa but introduced the ground-breaking principle of allowing the woman to attack the man, on steps 3 and 5. 
+	 </p>
+	</spokenPart>	
+
+    <spokenPart spokenBy="mujer" name="DialogIllExplainSovs2">
+	 <p>
+        Te mostraré. 
+		Sovs origina de la Salsa Cubana, y tiene las mismas figures, aunque la mayoridad de las figures tienen nombres daneses.
+	 </p>	 	 	 
+	 <p>
+        El hombre lidera y decide cuáles figures bailan, pero la mujer tiene la opción de ataqar al hombre durante los pasos de tres y cinco, usando cualqiér forma de atacar y arte marcial que prefiera.  
+		¿Cuándo te pegúe? Se llama el "knytter til fjæset"
+	 </p>	 	 	 
+	</spokenPart>
+
+    <spokenPart spokenBy="narrator" name="TheDance_EnjoyingTheSovs">
+	 <p>
+       As the initial surprise of getting punched in the face subsides, you start to really get into this daring - yet incredibly obvious - fusion-style of dancing. You especially appreciate that you finally have a chance to leverage your superior martial art skills on the dance floor, without having to start a fight. 
+	 </p>
+	</spokenPart>
+    <spokenPart spokenBy="narrator" name="TheDance_EnjoyingTheSovs_Knytter">
+	 <p>
+       You do a couple of rounds of Guapea, and then she tries for another "knytter til fjæset", but since you are now prepared, and since she sorta telegraphed the punch by pulling back the shoulder, you are able to gracefully re-direct. 
+	 </p>
+	</spokenPart>
+	
+    <spokenPart spokenBy="narrator" name="TheDance_EnjoyingTheSovs_Hook">
+	 <p>
+       You take her for an outside turn, which to no surprise leads to left-hook. Easily defended.
+	 </p>
+	</spokenPart>	
+
+    <spokenPart spokenBy="narrator" name="TheDance_EnjoyingTheSovs_BackElbow">
+	 <p>
+       You take her for a spin in the Enchufla, expecting her to throw a back-elbow at you as she crosses under your arm. 
+		<break time="500ms"/>
+	   She throws a back-elbow at you as she crosses under your arm. You use the leverage from the swing of the elbow to send her back for an "Enchufla doble".
+	 </p>
+	</spokenPart>	
+
+    <spokenPart spokenBy="mujer" name="TheDance_EnjoyingTheSovs_TanSuave">
+	 <p>
+	    ¡Qué hombre tan suave!
+	 </p>	 	 	 
+	</spokenPart>
+	
+    <spokenPart spokenBy="narrator" name="TheDance_EnjoyingTheSovs_TheTakeDown">
+	 <p>
+       As you take her for another "Enchufla", you are expecting another elbow-attack. You are not prepared for the take-down nor the subsequent mount. 
+	 </p>
+	 <p>
+       Time to progress the relation. 
+	 </p>	 
+	</spokenPart>	
+
+    <spokenPart spokenBy="mujer" name="TheDance_EnjoyingTheSovs_Vamos">
+	 <p>
+	    ¡Es hora para salir!
+		¡Vámanos chico!
+	 </p>	 	 	 
+	</spokenPart>
+
+    <spokenPart spokenBy="narrator" name="BackInTheGarden_TheAct">
+	 <p>
+       The two of you are back in your garden, on a beautiful, warm and starlit night. You are on top. 
+	 </p>
+	 <p>
+       I'm not going to go into most of the details of this exchange, except for one important detail. 
+		<break time="500ms"/>
+	   Her eyes.  
+	 </p>
+	 <p>
+       Do you know that feeling, when somebody asks you how you're doing, and you give the reply way too much thought, and you start explaining about that weird lump on your neck and how the ancient Mayans believed that to be an early forewarning of telekinetic abilities, only to realize that the person who asked you how you are doing, is now talking to someone else? Well, this is pretty much the exact opposite of that. She is 100% right here right now.
+	   When you shift your focus from one eye to the other, she immediately mirrors it. When you feel your mouth beginning to form a smile, you immediately see her eyes begin to smile. 
+	   When the fragmented remains of your soul calls out for companionship, you feel her soul reaching out to grab it by the hand, through the wide-open windows that are her eyes.
+	 </p>
+	</spokenPart>
+	
+    <spokenPart spokenBy="narrator" name="BackInTheGarden_AfterTheAct">
+	 <p>
+       The two of you lay embraced in your garden, looking up at the sky. 
+	 </p>  
+	 <p>
+	   Let's do 2 rounds of Zen-Breathing to calm your heart beat.
+       <break time="1000ms"/>
+       Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	   Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+       <break time="1000ms"/>
+       Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	   Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+	 </p>  
+
+	 <p>
+        Now, let's do a single round of "What was that?"-breathing in order to savour this moment. 
+		<break time="1000ms"/>
+		What was that? <prosody rate="85%">1, 2, 3, 4, 5, 6, 7, 8, 9, 10</prosody>
+		<break time="1000ms"/>
+	 </p>  
+	 <p>
+	    The air is filled to the brim with the sweet smell of her hair and her perfume and love and wonderful, like a heavy cloud just before the onset of a rain-shower joyful of emotion, but you notice something else in the air.   
+       <break time="500ms"/>
+	   Something completely different.
+       <break time="500ms"/>
+	   Something evil.
+	 </p>  
+	</spokenPart>
+
+
+    <spokenPart spokenBy="subject" name="BackInTheGarden_DialogWhatIsThat">
+	 <p>
+       ¿Lo hueles?
+	   ¿Qué es eso?
+	 </p>  
+	</spokenPart>
+	
+    <spokenPart spokenBy="mujer" name="BackInTheGarden_ItIsEvil">
+	 <p>
+	   ¡Es el olor del matadero viejo!
+	   Ese lugar es la personificación de la mala.
+	 </p>  
+	 <p>
+	   ¡No vayas allí nunca! 
+	   ¡Por favor!
+	   ¡Prométeme!
+	 </p>  	 
+	</spokenPart>
+
+    <spokenPart spokenBy="narrator" name="TheEnding">
+	 <p>
+	   This day has been something else. I can't promise you that the rest of your days in your mental wonderland will be like this, but it was important for me that you got to experience and savour this moment so you know what we are fighting for in whats to come. 
+       <break time="1500ms"/>
+	 </p>
+	 <p>
+	   Right now however, it's time to get back into the real world. Go get 'em loverboy.
+	 </p>
+	</spokenPart>
+
+
+	
+</chapter>

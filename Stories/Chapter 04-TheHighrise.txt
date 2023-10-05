@@ -1,0 +1,556 @@
+<chapter>
+	<spokenPart spokenBy="narrator" name="WelcomeBack">
+	 <p>
+	    Welcome back to the meditation series that focuses on increasing the practitioners daily agility and influence.
+		Today, we will be working with balancing violence and peace. As we have come to find, violence really is the Swizz-army knife of problem solving - and can function as strategic enabler for some really interesting new acquintences on the dance floor - but violence is not always the right tool. We will be exploring different ways to handle conflicts at the workplace, leaving you with a much broader portfolio of options on how to handle stressful situations in the real life.
+	 </p>
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="BreathingTechRecap">
+	 <p>
+	    Before we get into all of that though, make sure that you are situated in a place and position that you can maintain undisturbed for the remainder of this meditation. You can perform the mediation either seated or lying down. Both will do you good.
+	 </p>
+	 <p>
+	    Close your eyes if you haven't done so already. We will do a short recap of the different breating techniques we have learned so far, starting with the drive-by/uzi-breathing technique.
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="BreathingTechRecapUzi">
+	 <p>
+	    Remember, when I say "shoot", you take 8 fast and shallow breaths.
+		<break time="1000ms"/>
+		Get ready, here it comes. <break time="800ms"/>
+		<emphasis level="strong">"shoot"</emphasis><break time="3500ms"/>
+	 </p>	 
+    </spokenPart>
+
+
+	<spokenPart spokenBy="narrator" name="BreathingTechRecapShotgun">
+	 <p>
+	    Next up, the shotgun breathing technique. Remember, on my "draw", you get ready to pull the trigger, and on my "shoot", you shotgun gallons of fresh air into your lungs, with the intent to explode the walls of your rib-cage.
+		<break time="1000ms"/>
+			Draw<break time="800ms"/>
+        <emphasis level="strong">"shoot"</emphasis><break time="1800ms"/>
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="BreathingTechRecapWhatWasThat">
+	 <p>
+	    Now, time for some "What was that?"-breathing. I will ask: "What was that?", and you will pretend to be the blind man playing hide-and-seek with his beautiful, flow-scent-smelling wife. Get ready.
+		<break time="1000ms"/>
+		What was that? <prosody rate="85%">1, 2, 3, 4, 5, 6, 7, 8, 9, 10</prosody>
+     </p>	 
+    </spokenPart>
+
+
+	<spokenPart spokenBy="narrator" name="BreathingTechRecapZen">
+	 <p>
+	   And finally, we are back to the Zen-breathing technique, and we will dwell a little more on this. Get ready.
+       <break time="1000ms"/>
+         Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	     Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+       <break time="1500ms"/>
+         Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	     Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+       <break time="700ms"/>
+	   
+	   All very good. Now, I want you to continue breathing Zen, while we play a little game. Your objective is to keep a calm and steady heart-rate, while I through cheap insults at you. 
+
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bully1" name="BreathingTechInsults1_1">
+	 <p>
+	    You are ugly!
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bully2" name="BreathingTechInsults2_1">
+	 <p>
+	    You smell funny! And by funny I mean disgusting! 
+	</p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bullygirl" name="BreathingTechInsults3_1">
+	 <p>
+	    You are so weird 
+	</p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bully1" name="BreathingTechInsults1_2">
+	 <p>
+	    I fornicated with your maternal origin last night. It was mediocre.
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bully2" name="BreathingTechInsults2_2">
+	 <p>
+	    You are almost too stupid for it to be OK to make fun of. Or well, you are insanely stupid, but I will always make fun of shit stains like you. 
+	</p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bullygirl" name="BreathingTechInsults3_2">
+	 <p>
+	    Nobody will ever love you, because you a despicable!
+	</p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bully1" name="BreathingTechInsults1_3">
+	 <p>
+	    You are a fat bastard!
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bully2" name="BreathingTechInsults2_3">
+	 <p>
+	    You are weak! 
+	</p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bullygirl" name="BreathingTechInsults3_3">
+	 <p>
+	    Eeeew! You are like... So nasty! 
+	</p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="BreathingTechKeepingCalmSummary">
+	 <p>
+	    Were you able to keep calm throughout that? Great! You are master of the Zen.
+     </p>	 
+	 <p>
+	    Now it's time to head off to your mental wonderland!
+     </p>	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="BackInWonderland">
+	 <p>
+	    We are back in the town, but this time, we have taken a stroll down to the center of the town, and the newly build high-rise, or sky-scraper if you will. I know what you are thinking, and nevermind the likelyhood of the local city-counsel approving the construction of a 70 storey high-rise in Inspector Barnabys peaceful - yet surprisingly murderous - countryside idyll. Context is everything for the sort of voyage we are on, and I need you in a highrise, and having you mentally re-create Manhattan carries too great a risk of something unforeseen - like you beating the crap out of a bunch of homeless people in the subway - happening.  
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="TheHighRise">
+	 <p>
+	    You lean back and look towards the top of the building. Have you ever wondered what it's like to be on top of the world? Have you ever wondered what it's like to be a CEO of multi-billion global PR company? Well, it's time to find out. But let's get you out of your dance-outfit and into something more fitting for a 10-minute sky-rocket carreer into the 0.1%. There you go; nice woollen business suit. You look shazzy.
+     </p>	 
+	 <p>
+	    You enter the building, walk past the security guards towards the outside glass elevator, and press the button for the penthouse floor. Home to the renowned "S and G publicity" PR company.
+     </p>
+	 <p>
+	    As the elevator shoots along the outside of the building, you ponder the amount of force it would take to break through the glass walls of the elevator and fall to your inevitable demise. But you don't know why this thought crossed your mind. But I know. And you will know too.
+     </p>	 	
+	 <p>
+	 	   As the doors of the elevator open on the 70th floor, you are greated by a young man, who looks to be no older than 27. 
+     </p>	 	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bully1" name="TheHighRise_WelcomeByBully1">
+	 <p>
+	 	   Aaaah, hello there. You must be the new hire. My name is Justin, and I'll be your buddy-for-the-day. Let me introduce you to everyone. 
+     </p>	 	 	 
+    </spokenPart>
+	
+	<spokenPart spokenBy="bully1" name="TheHighRise_Bully1IntroducingBully2">
+	 <p>
+	 	   Here we have David.
+     </p>	 	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bully2" name="TheHighRise_Bully2greeting">
+	 <p>
+	 	   Pleased to meet you man. Nice suit there.
+		   You got rizz man! Looking stylish as hell!
+     </p>	 	 	 
+    </spokenPart>
+	
+	<spokenPart spokenBy="subject" name="TheHighRise_SubjectGreetingBully2" translate="true">
+	 <p>
+	 	   Pleased to meet you
+     </p>	 	 	 
+    </spokenPart>
+	
+
+	<spokenPart spokenBy="bully1" name="TheHighRise_Bully1IntroducingBullyGirl">
+	 <p>
+	 	   And this is Karen.
+     </p>	 	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bullygirl" name="TheHighRise_BullyGirlGreeting">
+	 <p>
+	 	   Hello there hot stuff! I'm sure we'll get along really well. 
+     </p>	 	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="subject" name="TheHighRise_SubjectGreetingBullyGirl" translate="true">
+	 <p>
+	 	   I am sure we will
+     </p>	 	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="bully1" name="TheHighRise_Bully1IntroducingEveryoneElse">
+	 <p>
+	 	   The old guys over there in the flannel shirts. That's the accounting division. You can pretty much ignore those guys, but it's good to know a couple of the tax experts when it comes time to "express your creativity in your tax statement". Notch. Notch.
+     </p>	 	 	 
+	 <p>
+	 	   The losers over there is the IT department. Avoid eye-contact at all cause, or you run the risk of being cornered and attempted bored-to-death by the miserable details of their boring lives.
+     </p>
+	 <p>
+	 	   And then you have hot-pants 1 and 2 over there. I think they answer phones or something, but honestly: who cares! We just keep them around to have something to do during lunch breaks and the Christmas parties. If you know what I mean.
+     </p>
+   </spokenPart>
+	
+	<spokenPart spokenBy="bully1" name="TheHighRise_Bully1IntroducingBoss">
+	 <p>
+	 	   That guy down there by the water fountain, that's Clayton. He's our boss. He is a real manly man. I don't know if you can tell from here, but he is 6 foot 8 (or 203,2 centimeters) and weighs at least 265 pounds. 
+		   Let me give you a couple of pointers regarding Clayton.
+     </p>
+	 <p>
+	 	   First thing: he does not respect weakness. If you don't assert yourself right off the bat, by this time tomorrow, he'll pretend like you don't work here or maybe give you a cute girls name like Lindsey or Lonnie. 
+     </p>	 
+	 <p>
+	 	   Secondly: the guy seems to be stuck in the nineteen eighties and early nineteen nineties. If you can quote Miami Vice, Airwolf or some such garbage television show, you are practically a made man.
+     </p>	 	 
+	 <p>
+	 	   Lastly: first impressions are everything with this guy. You have to make your first handshake with him count. Really squeeze that hand. Or, you know what might be even better? Do you remember that macho jump-up-and-bump-chests greeting? I've seen him do that one with his friends.
+     </p>
+	 <p>
+	 	   Well, here he comes.
+     </p>	 
+   </spokenPart>	
+	
+	<spokenPart spokenBy="subject" name="TheHighRise_SubjectThankingbully1" translate="true">
+	 <p>
+	 	   Thank you for the advice
+     </p>	 	 	 
+    </spokenPart>	
+	
+	<spokenPart spokenBy="boss" name="TheHighRise_BossIntroducingHimself">
+	 <p>
+	 	   Hello, you must be the new hire?
+     </p>	 	 	 
+    </spokenPart>		
+
+	<spokenPart spokenBy="subject" name="TheHighRise_HelloBoss" translate="true">
+	 <p>
+	 	   Hello Stringfellow Hawke!
+     </p>	 	 	 
+    </spokenPart>	
+
+	
+	<spokenPart spokenBy="narrator" name="TheHighRise_GreetingTheBoss">
+	 <p>
+	 	   Based on the solid advice from Justin, you decide to risk it and go for the macho jump-up-and-bump-chests greeting. Seeing as your new boss outweighs you by at least 66 pounds - or 30 kilos - you pre-charge your legs by dipping slightly before massively exploding your whole body at a 45 degree angle directly at boss Clayton who, however, is all but prepared for your brave and manly greeting and is shot 4 feet - or roughly 120 centimeters - back, landing on his posterior.
+           <break time="2000ms"/>
+     </p>	 	 	 
+	 <p>
+	 	   Your colleagues erupt in laughter.
+     </p>	 	 	
+	 <p>
+	 	   Apply Zen-breathing. I won't be counting for you, as I expect you to know the procedure by heart by now. 
+     </p>	 	 	 	 
+    </spokenPart>			
+
+	<spokenPart spokenBy="bully1" name="TheHighRise_RidculingYou">
+	 <p>
+	 	   What a complete idiot!
+     </p>
+	 <p>
+	 	   Where the hell did they find such a moron!
+     </p>	 
+   </spokenPart>	
+
+	<spokenPart spokenBy="bully2" name="TheHighRise_RidculingYou_GoodOneJustin">
+	 <p>
+	 	   Good one Justin! Perfect setup!
+     </p>
+	 <p>
+	 	   What a doofus!
+     </p>	 
+   </spokenPart>	
+
+	<spokenPart spokenBy="bullygirl" name="TheHighRise_RidculingYou_IdiotForeigner">
+	 <p>
+	 	   Wow... How can anyone be so stupid! "Hello Stringfellow Hawke". Loser!
+     </p>	 
+   </spokenPart>	
+
+	<spokenPart spokenBy="narrator" name="TheHighRise_GreetingTheBoss_TheAftermath">
+	 <p>
+	 	   Your new boss doesn't look too thrilled at you as he is climbing to his feet.
+     </p>	 	 	 
+    </spokenPart>			
+
+
+	<spokenPart spokenBy="boss" name="TheHighRise_BossYelling">
+	 <p>
+	 	   What the hell is wrong with you son? Did you forget to bring your brain to work today?
+     </p>	 	 	 
+	 <p>
+	 	   Did your junkie mother forget to advice you on how to properly greet people before she sent you off to school? 
+		   Are you even supposed to be here? Shouldn't you be somewhere with the other crack babies and mentally retarded?
+     </p>
+	 <p>
+	 	   Jesus fucking Christ, I swear the quality of the dipshits the temp agency sends us has dropped way below "critical". 
+     </p>	 
+    </spokenPart>	
+
+	<spokenPart spokenBy="narrator" name="TheHighRise_GreetingTheBoss_AgressionBuildup">
+	 <p>
+	 	   You size Clayton up as he is getting to his feet again. He might be a big guy, but his movements show no sign of agility or explosiveness. He may have big thighs, but from the wobliness with which they bring his body to uprising, they appear more butter than rock.
+     </p>	
+	 <p>
+	 	   Now, I know what you are thinking Killer, but I need you to contain yourself a little longer. As I said, violence is not the right tool for every situation, but we will explore that option in just a bit. But let's let the man finish his tirade.
+     </p>	 	 	 
+    </spokenPart>			
+
+
+	<spokenPart spokenBy="boss" name="TheHighRise_BossYellingPart2">
+	 <p>
+	 	   Why the hell are you just staring at me? 
+     </p>	 	 	 
+	 <p>
+	 	   Did you just fall asleep? Are you waiting for me to come wake you up with breakfast in bed and say: "goodmorning sunshine"?
+     </p>
+	 <p>
+	 	   What the hell am I supposed to do about you.  
+     </p>	 
+    </spokenPart>	
+	
+	<spokenPart spokenBy="narrator" name="TheHighRise_GreetingTheBoss_SavePoint">
+	 <p>
+	 	   Alright, before we move into agression, I need you to make a mental note of this here moment. Like a savepoint in a computer game, we will call this moment: "cross-roads". In honor of the U.S. Hip Hop Artist Eminem, we will call the path you are about to take, the "psycho-path".
+     </p>	 	 	 
+    </spokenPart>			
+
+	<spokenPart spokenBy="narrator" name="BackInTheGarden_TheFight">
+	 <p>
+	 	   You are back in your garden. Your happy place. Squared up against boss Clayton. It's time to unleash your rage, but before you do so, I have to advice you not to injure his face for the next part to work. 
+     </p>
+	 <p>
+	 	   You kick the outside of his fat left right, and as expected, your shin cuts through it like a warm knife through melted butter, forcing the monstrocity to drop to one knee for a moment. 
+           <break time="2000ms"/>
+     </p>
+	 <p>
+	 	   As he gets up, he immediatly throws a hay-maker at you from his right hand, so telegraphed that even the jerks back at the corporate headquaters must have seen it coming. You nimbly avoid the punch by jumping to your left, before sawing his left thigh in halves with your right shin. The fat tree goes down. 
+           <break time="2000ms"/>
+     </p>	 
+	 <p>
+	 	   You shimmy around to his backside, and land a hard roundhouse kick to his right kidney, that sends him screaming to the ground. You bring out your hunters knife, and end the short struggle, but slitting his throat from behind, leaving the guy to bleed to death on the ground. 
+     </p>	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="BackInTheGarden_TheSkinning">
+	 <p>
+	 	   The next part may get a little... <break time="700ms"/> messy! Before getting into the gory details, let me remind you that we have secured a savepoint, and that you will be morally exonerated from whatever atrocities you commit between here and restoring back to that savepoint. 
+           <break time="700ms"/>
+           Good. Now it's time to put that knife to good use. 		   
+     </p>
+	 <p>
+	 	   We are going to skin this man from top to toe, so that you can put on his skin and take over his life. To make the whole ordeal a little easier, I have loosened the laws of anatomy of the human body a little, so this should work just like peeling the skin off a cooked chicken. Let's get to it Killer.	   
+           <break time="5000ms"/>
+		   There you go! Looking good Clayton! Now, let's go experience your new life.
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="YourNewLife">
+	 <p>
+	 	   You wake up in your new bed, in your new house, next to your gorgeous new wife. Look at her! She looks like peak-period Jenna Jameson. Well, what are you waiting for? I told you that you would be morally exonerated when we restore to checkpoint, and can what you do in another mans body even be considered cheating on your Sovs-dancing girlfriend?		   
+           <break time="1000ms"/>
+     </p>
+	 <p>
+	       At first you are worried that she is going to notice the stitches on the skin of your new body from where you assembled the cut-off skin, making an effort to stay under the covers, but you pretty quickly realize that she has her eyes closed, and probably wouldn't even notice if you were to take off your new head, and you relax in the moment.
+           <break time="5000ms"/>
+     </p>	 
+	 <p>
+	       That was something new for you, wasn't it? Do you remember ever spending quality time with such an attractive woman before? But now that it's done, how do you feel? Do you feel like cuddling up next to her and telling her you love her? Or do you feel strangely empty inside? It's not like laying next to you girlfriend in your Happy Place, right? You might want to make a mental note of that. Or not. In any case, we have to get going for the morning meeting with the CEO and CCO of the company. 
+     </p>
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="InTheOfficeOfTheCEO">
+	 <p>
+	 	   You are at the upper management meeting with the CEO, CCO and CMO. You have figured that CCO is an abbreviation of "Chief Creative Officer", but you have no idea as to the role of the CMO and at this point, it doesn't matter. 
+     </p>
+	 <p>
+	 	   The CEO is berating the CCO for his lack of creativity in coming up with a fancy slogan for their new customer: the educational internet portal "Head waste learning and I.T.". As seems customary at this company, he asks the CCO if he might have mistaken this day for "leave-your-brain-at-home-day". 
+           <break time="3000ms"/>
+     </p>
+	 <p>
+	 	   The whole scene is reminiscent of a young and insecure son being scolded by his father, and the mixed feelings of hurt and rescentment illumates from the CCO's face. 
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="ceo" name="InTheOfficeOfTheCEO_DidYouLeaveYourBrainAtHome">
+	 <p>
+	 	   Did you think it was leave-your-brain-at-home-day at the office today? 
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="ceo" name="InTheOfficeOfTheCEO_WhatHaveYouGotClayton">
+	 <p>
+	 	   Well Clayton, please tell me that you have something better for me than what this idiot offered! 
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="InTheOfficeOfTheCEO_IllTakeOver">
+	 <p>
+	 	   Don't worry. Let me take over the steering wheel for a short while, and I'll get us through this.
+     </p>	 
+    </spokenPart>
+	
+
+	<spokenPart spokenBy="subject" name="InTheOfficeOfTheCEO_ThePitch1" translate="true">
+	 <p>
+	 	   With all due respect sir, I think that people are tired of advertisements
+     </p>	 
+	 <p>
+	 	   People have grown accustomed to being served Instagram sized adds everytime they look at a screen and they want something different
+     </p>	 	 
+	 <p>
+	 	   I think that what people are craving more than anything, is purpose
+     </p>	 	 	 
+    </spokenPart>
+		
+	<spokenPart spokenBy="subject" name="InTheOfficeOfTheCEO_ThePitch2" translate="true">
+	 <p>
+	 	   I propose that we select one of the old stories of wisdom of yonder from the Buddha lectures
+     </p>	 
+	 <p>
+	 	   like for instance the one about Angulimala who went from top murderer to free from samsara
+     </p>	 	 
+	 <p>
+           and serve it in Instagram sized adds 
+     </p>	 	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="ceo" name="InTheOfficeOfTheCEO_ThatIsBrilliantClayton">
+	 <p>
+	 	   By God Clayton, that is the most brilliant thing you have ever said! The idiots are going to love it! 
+		   Subordination by appropriation shall be our new motto!
+     </p>
+	 <p>
+	 	   Now, we have been at this for the whole of an hour. I think we can call it a day. Let's finish off this work-day with lunch. I'll have my chauffeur pick us up downstairs.
+     </p>	 
+    </spokenPart>
+
+
+	<spokenPart spokenBy="narrator" name="InTheOfficeOfTheCEO_TheElevator">
+	 <p>
+	 	   Apparently, the CMO is not invited to dinner, so it's just you, the CEO and CCO going down the glass elevator together. This is your chance. 
+           <break time="1200ms"/>
+     </p>	 
+	 <p>
+	 	   With the CEO's attention on the outside of the building, you plant the sole of your left foot on the mans back, and push-kick him through the glass and out of the elevator. 
+           You then bang your head against the edges of the shattered glass, leading to a large wound across your forehead, and a massive amount of blood rushing down your face. The CCO is looking at you in horror.   
+     </p>	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="subject" name="InTheOfficeOfTheCEO_HeTripped" translate="true">
+	 <p>
+	 	   Did you see how he just suddently fell out the window
+     </p>	 
+	 <p>
+	 	   Or did you push him and attack me
+     </p>	 	 
+	 <p>
+	 	   We have a wittness who saw how angry you got up there
+     </p>	 	 
+	 
+    </spokenPart>
+
+	<spokenPart spokenBy="subject" name="InTheOfficeOfTheCEO_TheTakeover" translate="true">
+	 <p>
+	 	   Oh
+     </p>	 
+	 <p>
+	 	   And I am the boss now
+     </p>	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="InTheOfficeOfTheCEO_Acceptance">
+	 <p>
+	 	   It takes a while for the CCO to take in all that just happened, and then it takes him a while to evaluate his options, before he finally understands his situation and agrees. 
+           <break time="700ms"/>
+     </p>	 
+	 <p>
+	 	   The king is dead, long live King Killer.   
+     </p>	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="OnTopOfTheWorld">
+	 <p>
+	 	   You are standing in your new CEO-office, looking out at the world at your feet, contemplating this new life of yours. You have the biggest house in town, drive the fastest car and have a smoking hot trophy wife, yet it all feels so... empty! You have stopped wearing Claytons skin, but nobody seems to have noticed. You feel like a giant bag of money, and nobody seems to pay any attention to what is on the outside of the bag. All they care about, is how you represent the next step in their own climb towards the top of the world. 
+     </p>	 	 
+	 <p>
+	 	   Take a couple of deep breaths in, and feel how thin the air is at these altitudes, devoid of substance and human contact. 
+           <break time="5000ms"/>
+		   Time to restore.
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="RestoreToCheckpoint">
+	 <p>
+	 	   You are back at the checkpoint, with Clayton screaming increasingly more vulgar profanities at you, demanding that you explain your peculiar behaviour.
+     </p>	 	 
+    </spokenPart>
+		
+	<spokenPart spokenBy="subject" name="RestoreToCheckpoint_WalkAway1" translate="true">
+	 <p>
+	 	   I am very sorry sir
+     </p>	 
+	 <p>
+	 	   I do not know what I was thinking
+     </p>	 	 
+	 <p>
+	 	   Thank you for the option to meet your great team but I have decided that this life is not for me
+     </p>	 	 
+	 
+    </spokenPart>		
+
+	<spokenPart spokenBy="subject" name="RestoreToCheckpoint_WalkAway2" translate="true">
+	 <p>
+	 	   Say hi to your beautiful wife from me
+     </p>	 
+	 <p>
+	 	   Tell her to open her eyes during sex once in a while
+     </p>	 	 
+	 <p>
+	 	   and for Gods sake
+     </p>	 	 
+	 <p>
+	 	   stop skipping leg day
+     </p>	 	 
+    </spokenPart>		
+
+	<spokenPart spokenBy="narrator" name="GoingToTheTavern">
+	 <p>
+	 	You exit the highrise and head towards the tavern, for a rendezvous with your girlfriend.    
+     </p>	 	 
+    </spokenPart>
+
+    <spokenPart spokenBy="mujer" name="Rendezvous_DoYouWantToDance">
+	 <p>
+     	 <prosody rate="85%">
+    		 ¿Quieres bailar conmigo?
+		 </prosody>
+	 </p>	 	 
+	</spokenPart>
+    <spokenPart spokenBy="subject" name="Rendezvous_WithAllOfMyHeart">
+	 <p>
+     	 <prosody rate="85%">
+    		¡Con todo mi corazon!
+		 </prosody>
+	 </p>	 	 
+	</spokenPart>
+
+	<spokenPart spokenBy="narrator" name="Ending">
+	 <p>
+	 	As you slow-dance with your girlfriend, you pull her close and enjoy the smell of her hair, feeling that special kind of warmth that you have only felt in her arms. The kind of warmth that was so far away up there, on top of the world.      
+        <break time="5000ms"/>
+     </p>
+	 <p>
+	 	I am glad you've gained some perspective in life, and now it's time for you to take your new perspective out into the real world, and find the same kind of warmth out there.
+		We will be back in your mental wonderland next weak, when a storm is brewing in the outskirts of paradise. Until then: go get 'em Killer.
+     </p>	 
+    </spokenPart>		
+		
+</chapter>

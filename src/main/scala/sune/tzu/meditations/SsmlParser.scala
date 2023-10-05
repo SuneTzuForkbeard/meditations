@@ -85,6 +85,8 @@ object SsmlParser {
           }.foreach(word => println(s"  failed to IPA-translate: $word"))
           converted.collect {
             case IPAPhoneme(inputWord, phStr) => s"""<phoneme alphabet="ipa" ph="$phStr">$inputWord</phoneme>"""
+            case IPAError(errorWord) => s"""<phoneme alphabet="ipa" ph="$errorWord">$errorWord</phoneme>"""
+
           }
         }
       }

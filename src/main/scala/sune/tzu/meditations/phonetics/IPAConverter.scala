@@ -70,7 +70,7 @@ object IPAConverter {
     arpaDictionary.get(word) match {
       case Some(res) => Some(res)
       case None => {
-        val bySplitAndConvert = splitAndConvertToArpa(word)
+        val bySplitAndConvert = splitAndConvertToArpaLazySolution(word)
         bySplitAndConvert match {
           case Some(res) => Some(res)
           case _ => None
@@ -89,7 +89,7 @@ object IPAConverter {
       var returnee : Option[List[Phoneme]] = None
       while(sizeOfLatter < str.length && returnee.isEmpty) {
         val (first, latter) = str.splitAt(str.length - 1 - sizeOfLatter)
-        val (firstRes, latterRes) = (splitAndConvertToArpa(first), splitAndConvertToArpa(latter))
+        val (firstRes, latterRes) = (splitAndConvertToArpaLazySolution(first), splitAndConvertToArpa(latter))
         (firstRes, latterRes) match {
           case (Some(fRes), Some(lRes)) => returnee = Some(fRes ++ lRes)
           case _ =>
@@ -99,6 +99,16 @@ object IPAConverter {
       }
       returnee
      }
+  }
+
+  private def splitAndConvertToArpaLazySolution(str: String): Option[List[Phoneme]] = {
+    if (arpaDictionary.contains(str))
+      Some(arpaDictionary(str))
+    else {
+      println("ARPA dictionary did not contain: " + str)
+      None
+    }
+
   }
 
   private def translateFromArpa(phonemes : Seq[Phoneme]) = phonemes

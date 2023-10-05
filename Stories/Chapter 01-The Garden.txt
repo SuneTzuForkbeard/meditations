@@ -1,0 +1,129 @@
+<speak>
+ <p>
+	Welcome to the first meditation in this series, that focuses on increasing the practitioners daily agility and influence. 
+	No prior knowledge of buddhism or meditation is needed.
+ </p>
+ <p>
+	Make sure that you are situated in a location where you can be un-disturbed for the next 15 minutes. 
+	You can perform this meditation seated or lying down; whatever suits you best. <break time="1000ms"/>
+
+	Start by drawing a deep breath in. <break time="500ms"/>
+	Hold it in. <break time="2000ms"/>
+	And release. <break time="800ms"/>
+	Repeat. <break time="800ms"/>
+	Take a deep breath in. 
+	
+	Hold it in. <break time="2000ms"/>
+	And release. <break time="2000ms"/>
+  </p>
+  <p>
+	Now, gently close your eyes. We will be working with different breathing techniques to trigger different mental and bodily states, the first being Zen Breathing.
+	I will tell you to take a deep breath in while I count to 6. I will then tell you to breathe out while I count to 9. Rinse and repeat. Zen Breathing will comense now. <break time="1000ms"/>
+
+	Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+
+	Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+
+	Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+
+	<s>Very good.</s>
+	<s>Feel free to continue breathing zen while I explain the next technique, or put your breathing on auto-pilot. Both will do you good.</s>
+  </p>	
+  <p>
+	<s>We will call the next technique Shotgun Breathing, since we will be shooting air into our lungs like we were shotgunning pressurized cans of liquid oxygen.</s>
+	<s>Picture a skeet shooting contest. Your breathing organs are your shotgun. I will call: "draw", which will be your signal to get on your marks.</s> 
+	<s>I can't very well throw a clay pigeon against you, though this would be preferable for keeping with the analogy. </s>
+	<s>Instead, I will say: <emphasis level="strong">"shoot"</emphasis>, which will be your signal to shotgun as much air into your lungs as quickly as possible.</s>
+	<s>Feel free to discard the air whichever way suits you best. Slow exhale or quick exhale. Both will do you good. Rinse and repeat.</s>
+
+	Draw<break time="800ms"/>
+    <emphasis level="strong">"shoot"</emphasis><break time="1800ms"/>
+	
+	Draw<break time="800ms"/>
+    <emphasis level="strong">"shoot"</emphasis><break time="1800ms"/>
+
+	Draw<break time="800ms"/>
+    <emphasis level="strong">"shoot"</emphasis><break time="1800ms"/>
+
+	Draw<break time="800ms"/>
+    <emphasis level="strong">"shoot"</emphasis><break time="1800ms"/>
+
+	<s>If you feel a little light-headed, that's perfectly normal. You'll be fine.</s>
+  </p>
+  <p>
+	<s>Last technique we need to test-drive before embarking on our journey, is the drive-by breathing technique.</s> 
+	<s>Imagine that you are in the back-seat of a convertible, roaming the streets of Compton during the height of the late 1990's golden period of gangsta-rap.</s>
+	<s>2Pac's "Bomb First" on the radio. </s>
+	<s>Up ahead, you see a group of gentlemen from one of the rival street-pharmacies, who just so happened to accident their car over one of your close comrades last week. </s>
+	<s>Your lungs are your Uzi. </s>
+	<s>On my <emphasis level="strong">"shoot"</emphasis>, you take 8 fast and shallow breaths in quick succession.</s>
+	<s>Uzi-fast air in, Uzi-fast air out. </s>
+
+	Get ready. Here they come. <break time="800ms"/>
+	<emphasis level="strong">"shoot"</emphasis><break time="3500ms"/>
+
+	<s>Hot damn. 2 of them are still alive. We'll be going around for a second round. Get ready.</s>
+	<emphasis level="strong">"shoot"</emphasis><break time="3500ms"/>
+
+	<s>They look dead, but best to make sure. Last time. Get ready.</s>
+	<emphasis level="strong">"shoot"</emphasis><break time="3500ms"/>
+
+	Great job killer. You're a made man now. Whatever that means to you.
+  </p>
+  <p>
+	Put your breathing on auto-pilot. We are going on an adventure. 
+	You are in your garden. Now, you may own a garden in the real life, or more realistically, the banks own a garden that you pay interest to use but this is not the garden we are talking about here. 
+	This is <emphasis level="strong">YOUR</emphasis> garden. A mental garden inside yourself. Your garden has a newly-cut lawn the size of a soccer or football field. 
+	Surrounding the lawn in the center of your garden, are poppy-fields for as far the eye can see, with big beautiful opium poppies, in the midst of their flower period, yielding a precious array of white, red and purple. 
+	It is a sunny day. Not a cloud in the skies. 26 degrees celcius or 79 degree fahrenhit. You are laying or sitting on the lawn; whatever matches your current position. This is your happy place.
+	You marvel at the sight of the beautiful poppy flowers. Zen Breathing commences.
+
+	Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+	  
+	Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+
+	You notice a disturbance near the edge of the lawn. It's a filthy-looking bum. A vagabond. A man of the road. He is pulling up poppies from one of the fields. He is pulling up poppies from one of the fields in your mental garden. Make of that what you will.
+
+	"Share the wealth" you think, as you try to calm yourself with some Zen Breathing. 
+
+	Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+
+	The man is screaming something at you, but your can't make out the words, so you get up to approach him. As you get closer, you can hear the horrible infanities he is yelling at you. Commence Shotgun breathing.
+
+	Draw<break time="800ms"/>
+    <emphasis level="strong">"shoot"</emphasis><break time="1800ms"/>
+
+	Draw<break time="800ms"/>
+    <emphasis level="strong">"shoot"</emphasis><break time="1800ms"/>
+
+	You pull your hands up in-front of yourself in a calming manner. "I mean no harm". "I have taken a vow to help all of humanity to end suffering". This has little to no effect on the man. He is still screaming filthy infanities at you out of his filthy mouth. Now being roughly 5 meters - or 5.5 yards - from him, his constant yelling is screeching across your nervous system like a knife across a plate. Commence Zen Breathing:
+
+	Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+
+	The man is un-buttoning his pants and squats over. This man is going to defecate on your poppies in the fields of your happy place. Commence Uzi-breathing for 8 quick breaths. 
+	<emphasis level="strong">"shoot"</emphasis><break time="3500ms"/>
+
+	You charge the man, and land a hard push kick right to his face, that sends him flying backwards. You circle around him, and stomp him in the face. He pulls both his arms up to protect his head, so you stomp him full force in the ribs. You can feel a couple of his ribs crack, possibly puncturing one of his lungs. In a last-ditch attempt to save himself, he instinctively roll unto his stomach, leaving the back of his head and neck completely open. You drop your knee with all of your weight on his neck, before you launch a carpet bombing of fists to the side of his face. Things get kinda blurry at this point. Complete madness ensues for a few minutes, until the whole scene is a big mess of blood and pieces of the dead mans fractured skull. 
+	 
+    <break time="1800ms"/>	
+	Exhausted, you sit back on the ground. You just killed a hobo in the outskirts of the fields in your happy place. Your mental garden. Don't worry about it. This man is just a representation of something inside of yourself. Or maybe he is a mind-traveller, like in the 2010 Hollywood blockbuster Inception. Either way, this case is not covered by any laws, and you are not liable to prosecution in any way.  
+
+	You either stay seated, or lay back on the ground. Both will do you well. You regain your calm by breathing zen.
+    <break time="800ms"/>	
+
+	Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+
+	Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+
+	It's time to return to the real world, feeling empowered by your adventure in your happy place. We will return to your happy place. This is just the first leg of a long journey into the depths of your consciousness.  
+	But for now, you need to go out into the real world and live. Go get 'em killer. 
+</speak>	
