@@ -1,0 +1,468 @@
+<chapter>
+	<spokenPart spokenBy="narrator" name="WelcomeBack">
+	 <p>
+	    Welcome back to the meditation series that focuses on increasing the practitioners daily agility and influence.
+	 </p>
+	 <p>
+	   Make sure that you are situated in a place where you will be undisturbed during this meditation. 
+	   If you haven't done so already, close your eyes and assume a comfortable position, either seated or lying down. Both will do you good.
+	 </p>	 
+    </spokenPart>
+	
+	<spokenPart spokenBy="narrator" name="DrowningInTheSeaOfHardThruthsBreathing">
+	 <p>
+	    We will start today's meditation by learning a new breathing technique; the so called "Drowning in the Sea of hard Truths"-breathing technique.
+	 </p>
+	 <p>
+	    Imagine that you are a young philosopher who - after having sought the answers to life, the universe and everything through consumption of insane amounts of peyote extract - is now standing knee-deep at the shore of the Sea of Hard Truths.
+	 </p>	 
+	 <p>
+	    When I say <emphasis level="strong">NOW</emphasis> you take a deep breath before putting your head below water. You hold your breath, while I serve you a hard truth of life, and then you breathe out.
+	 </p>	
+	 <p>
+	    I hope you are ready.
+         <break time="800ms"/>
+		<emphasis level="strong">NOW</emphasis>
+         <break time="1500ms"/>
+		<emphasis level="strong">Someday you will die!</emphasis>
+         <break time="2500ms"/>
+	 </p>	
+	 <p>
+		<emphasis level="strong">NOW</emphasis>
+         <break time="1500ms"/>
+		<emphasis level="strong">Nobody knows what happens after death!</emphasis>
+         <break time="2500ms"/>
+	 </p>	
+	 <p>
+		<emphasis level="strong">NOW</emphasis>
+         <break time="1500ms"/>
+		<emphasis level="strong">Some people who have had near-death experiences have reported feelings of utter bliss and calm, but some people have reported feelings of extreme agony and distress!</emphasis>
+         <break time="1500ms"/>
+	 </p>	
+    </spokenPart>	
+
+	<spokenPart spokenBy="narrator" name="ZenBreathing">
+	 <p>
+	   Before we take off to your mental wonderland, I want to do a short recap of the Zen-breathing technique, and explain to you some more things about life. 
+	 </p>	 
+	 <p>
+ 	     Remember, during Zen-breathing, you will breathe in while I count to 6, and breathe out while I count to 9.
+         <break time="400ms"/>
+	 	 Get ready.
+         <break time="400ms"/>
+         Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	     Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>
+         <break time="600ms"/>
+	     One more time
+         <break time="600ms"/>
+         Breathe in <prosody rate="65%">1, 2, 3, 4, 5 , 6</prosody>
+	     Breathe out <prosody rate="65%">1, 2, 3, 4, 5, 6, 7, 8, 9</prosody>	 
+    </p>	 	 
+	 <p>
+	    I need you to continue breathing Zen, while I explain something important to you. 
+		It is OK if you need to perform some mental counting to begin with, but as you progress through the breaths, see if you can automate the Zen-breathing without counting.
+	 </p>	 
+	
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="WorkingWithGlass_UsefulnessOfGlass">
+	 <p>
+	    I'm going to talk to you about glass, as in glass windows.
+		Though you probably seldomly think about it, glass is really fundamental for our way of life. Imagine for instance, a world without glass in which cars offered no protection against the wind and oncoming insects. I highly doubt cars would have been a great hit in Sweden or Norway.
+	 </p>	
+	 <p>
+	    Or imagine push-kicking the CEO of a multi-national Public Relations bureau out of a glass elevator without the glass. Not quite the same, right?
+	 </p>	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="WorkingWithGlass_IngredientsInGlass">
+	 <p>
+       Modern day glass is made of between 70% and 74% pure silica. As silica has a melting point at around 2000 degrees celsius - or around 3632 degrees fahrenheit - sodium carbonate is added, lowering the boiling point of the mix to around 1200 degrees celsius - or around  2192 degrees fahrenheit. Apart from silica and sodium carbonate, modern day glass also consists of calcium oxide, magnesium oxide and alumium oxide. 
+	 </p>	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="WorkingWithGlass_MakingGlassWindows">
+	 <p>
+       When glass windows are made, aforementioned mix of ingredients is heated to around 1550 degrees celsius in a giant furnace, after which it is cooled to around 1300 degrees celsius. It then undergoes gradual cooling in a so-called tin-bath, before being poured onto an automated ribbon and transported into a cutting zone where the edges of the glass are cut. At the end of the process, the glass is cooled to around 60 degrees celsius and cut to standard dimensions.
+	 </p>	 	 
+	 <p>
+       Throughout this entire process, it is important that the cooling of the glass mixture happens gradually to ensure maximum stability of the produced glass.
+	 </p>	 	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="WorkingWithGlass_WhyAmITellingYouThis">
+	 <p>
+	   If this is your first time performing this meditation, you may be wondering why I am telling you all of this. You will find out soon enough.
+	 </p>	 	 
+	 <p>
+       If this is not your first time performing this meditation... Good on you. You are well on your way to becoming an agile and influential part of society.
+	 </p>	 	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="EndOfIntro">
+	 <p>
+	   Now for the big question.
+	 </p>	 	 
+	 <p>
+       Did you remember to breathe Zen?
+       <break time="2000ms"/>
+	   Let's head off to wonderland.
+	 </p>	 	 	 
+    </spokenPart>
+
+
+	<spokenPart spokenBy="narrator" name="BackInTheGarden">
+	 <p>
+	 	You are back in the garden of your mental wonderland, at early sunset of what promises to be another warm and sunny day in paradise, working in your opium fields. This is a very special time of year for you, because the first batch of poppies have lost their flowers, and the extraction of their opium latex can commence. During the extraction season, you work the early hours in the morning cutting the surface of the seed pods, allowing for the opium latex contained within the skin of the pods to seep out. You then return in the afternoon to scrape off the dried off resin - now opium - from the pods. You sell batches of opium resin to the nice guys from O dot P dot Ades Incorporated, who probably work for big pharma or some drug ring or whatever, and the money they pay help feed your family and pay for the mortgage on the house that you and your - now wife - inhabit along with your two children. 
+     </p>	 
+	 <p>
+	 	   This may not have been the life you expected to find when you were just a youngling, but all in all, it is a good and satisfying life. 
+     </p>	 	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="BackInTheGarden_LifeOfTheOpiumPoppy">
+	 <p>
+	 	It's a funny thing with life. Take for instance these here poppies. They were planted in great batches across the fields during late winter, and during the spring you gradually weeded out around 90% of the initial plants, in order to ensure that the biggest and highest yielding plants would have room, nutrients, water and sun-light to grow. There is a saying around opium farmers, that it is usually the plants that were accidentally trampled during their infancy, that end up the biggest and highest-yielding. You wonder if the same goes for human beings.  
+     </p>	 
+	 <p>
+	    During late spring, the plants undergo an explosive growth spurt before eventually reaching their full potential height, producing flower petals. The plants only keep their petals for a little less than a week, and after around 5 to 10 days from deflowering, the plants are ripe for harvesting containing the largest amount of opium latex of their life. The plants then gradually wither and die, leaving behind the seeds for next years harvest in the dried-up pods. 
+     </p>
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="BackInTheGarden_PeakOfPoppyLife">
+	 <p>
+	    You think to yourself, that on this day, you have caught these flowers at the peak-usefulness in the trajectory of their life. Had these plants died a month ago, their life would have been for nothing. They would never have attained usefulness. In a week from now, you will have no other use for these plants than the seeds they leave behind. 
+     </p>	 
+	 <p>
+	    You are not quite sure what to make of all of this, but feeling some sense of connection to the fate of your opium poppies, you decide to try and take as much of it all in as possible, by taking a couple of enormously big breaths.  
+		Get ready. 
+       <break time="500ms"/>
+	   Take a deep breath in, and inhale as much air as humanly possible. Hold your breath.
+       <break time="1000ms"/>
+	   And breathe out.
+	   Let's do one more.
+       <break time="500ms"/>
+	   Take a deep breath in, and hold.
+       <break time="2000ms"/>
+	   And breathe out. 
+     </p>
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="BackInTheGarden_NoticingTheStormClouds">
+	 <p>
+	   Without being able to put it into words, you have a sensation that something just peaked, which is strengthened as you notice that what looks to be a set of pretty heavy storm clouds have formed in the horizon. 
+	   You now also feel a slight but very cold breeze, which you find unusual for this time of year. Come to think about it, you can't remember ever having experienced bad weather in your mental wonderland. In fact, the only rainshowers you remember having experienced in here, have been from the severed arteries of the occasional hobo, opium-smoking fiend or intolerable boss you have had to kill, and the unusualness of this observation sends a chill down your spine, as you are suddenly seized by the unexplainable fear that something is very wrong. Your thoughts immediately go to your wife and children, and as if violently awoken from a bad dream via 10 gallons of ice-cold water being hurled against your face, your body leaves it's trance-like state and sets off running towards town.
+     </p>	 
+    </spokenPart>
+
+
+	<spokenPart spokenBy="narrator" name="RunningFromTheStorm">
+	 <p>
+	   In the face of a storm, some men will stubbornly stand their ground and wait for it to pass, but you are running from it as fast as you can. 
+     </p>	 
+	 <p>
+	   You have taken the Path of Enlightenment through the forrest home, and you are in the dark part of the pine-tree forrest when you hear the first drops of rain fall. In the forrest, you are almost entirely shielded from the rain-drops, but when you are occasionally hit by a large drop of rain that has accumulated on the needles of the trees, the reality of the storm feels like it penetrates right through to your soul.  
+     </p>	 
+	 <p>
+	   The path from your garden to your family's house in the old part of town is around 8 kilometers - or 5 miles - and you have long since realized that the pace you have set is unsustainable for an 8 kilometer run. Your body is screaming for you to stop and take a rest, but every rain-drop that hits you drives you forward as if it was whipping you.
+     </p>
+	 <p>
+	   Although your body is screaming for air, you have no time to stop and refill your oxygen deposits, so you have to make do with a couple of rounds of Drive-by - or Uzi - breaths.
+       <break time="400ms"/>
+       Get ready.	   
+       <break time="400ms"/>
+	   <emphasis level="strong">"shoot"</emphasis>
+	   <break time="2000ms"/>
+	   <emphasis level="strong">"shoot"</emphasis>
+	   <break time="2000ms"/>
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="RunningFromTheStorm_Memories">
+	 <p>
+	   You can't quite explain the sense of horror you're are feeling. It's like the feeling of someone watching you as you lay in bed at night through the faint light of a cigarette spark without being able to see who or what is staring at you.
+     </p>
+	 <p>
+	   The birth of your daughter is set to play on the movie-projector of your mind. It feels like ages ago, and it feels like it is happening right now. Holding her. So fragile. In a sense, part of you were born that day as well. You always considered yourself rather distant from the world, but she opened something in you and forever anchored you to the world around you. 
+     </p>
+	 <p>
+	   Cut to the breakfast-scene during you and your family's first trip out of the country when your daughter was 4 years old. You and your wife had just gotten back together after half a year of living apart. Out of nowhere, your daughter looks at you and asks you why you don't love her anymore. You can't even collect your breath to tell her that your separation was about you and your wife, and that you will always love her. You just break down and cry. 
+     </p>
+	 <p>
+	   Cut to scenes of your son - back when he was a toddler - playing with your wife. They were so loud and terribly silly, and you were never any good at silly. You never really understood this sort of childish interaction, but he looked so happy. There was no doubt that he had inherited alot of your traits, but he was just a much better version of you. He was what maybe you could have been, had things been different. All the other things aside, you would always love your wife for that. 
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="RunningFromTheStorm_LeavingTheForrest">
+	 <p>
+	    You are now at the end of the forrest, right before the flowery meadow. What started as a light rain, has now turned into a pretty heavy rainfall. Before leaving the forrest and the somewhat shielding effect of the trees above, you decide to shotgun two breaths of air for whatever replenishing effect it may have.
+ 		<break time="500ms"/>
+		Draw
+		<break time="800ms"/>
+        <emphasis level="strong">"shoot"</emphasis>
+		<break time="1200ms"/>
+		Draw
+		<break time="800ms"/>
+        <emphasis level="strong">"shoot"</emphasis>
+		<break time="1200ms"/>
+     </p>	 
+	 <p>
+	    You leave behind the forrest and head into the rainshower on the unsheltered meadow.
+	 </p>
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="RunningFromTheStorm_LastStretchHome">
+	 <p>
+	    The rain is heavy and out here in the open you really feel the cold wind on your back. Your clothes are drenched, and your body is tired, but the thought of just surrendering yourself to the storm never crosses your mind. Your family's highligt reel in the back of your mind pushes you forward like an ice-breaker in the dead of winter. 
+	 </p>
+	 <p>
+	    You decide to focus on your breath to drown out the sensory stimuli from your tired and heavy legs.  
+		<break time="800ms"/>
+		Breathe in.
+		<break time="1000ms"/>
+		Breathe out.
+		<break time="1000ms"/>
+		Breathe in.
+		<break time="1000ms"/>
+		Breathe out.
+	 </p>	 
+	 <p>
+	    You cross the edge of the old part of the town. 
+		<break time="800ms"/>
+		Breathe in.
+		<break time="1000ms"/>
+		Breathe out.
+		<break time="1000ms"/>
+		You run past the Old Tavern, where you and your wife have spent so many nights indulged in fusion salsa / martial arts dancing. Her eyes are shone from the projector. Her smile. The same 10 seconds. Looping. The feeling of her warm embrace. 
+		<break time="800ms"/>
+		Breathe in.
+		<break time="1000ms"/>
+		Breathe out.
+	 </p>	 	 
+	 <p>
+       <break time="1000ms"/>
+	   You are at the front door of your house. Exhausted. You take a deep breath, bracing yourself for whatever you may find in there. With a heavy heart and a tired body, you open the door and step in.
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="TheBreakUp">
+	 <p>
+	    You enter the small hallway of your little town-house, to find your wife standing in the living room with your children. 
+		The look  in her eyes tell you everything you need to know, but the packed bags and the tears in your childrens eyes drives the point home.
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="mujer" name="TheBreakUp_IDontLoveYouAnymore">
+	 <p>
+       <prosody rate="85%">
+         Ya no te quiero. 
+	   </prosody>
+       <prosody rate="85%">
+  		¡Lo siento!
+	   </prosody>
+       <prosody rate="85%">
+		Te estoy... dejando.
+	   </prosody>	   
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="TheBreakUp_AMillionThoughts">
+	 <p>
+	    She is leaving you. Or... <emphasis>THEY</emphasis> are leaving you.
+       <break time="1000ms"/>
+	 </p>	 
+	 <p>
+	    Like a deer caught in the headlights of a cargo truck, you just look at her while a million questions race through your mind. Questions like:
+        - Why?
+        - What's his name?
+        - Do you think his family needs an open casket funeral?
+	 </p>	 
+	 <p>
+	    Stand down Killer! We have been over this before, and this is one of the things that violence can't solve. 
+		Chopping the fingers off another guy joint by joint using a dull axe, is as effective in terms of making her love you again, as trying to build a house using a sledgehammer, and whether there even is another guy is not important. The important thing is, that in order for love to be love, it needs to be free, otherwise what you have is a contract.
+	 </p>	 
+	 <p>
+	    Romantic love exists somewhere out there in the unknown among the things we don't have and/or the things that we are not. We fall in love with someone who complements a part of us, that becomes the yin to our yang and vice versa, but the thing is: our yins and yangs change over time, because <emphasis>WE</emphasis> change over time. And she has changed, and now she needs something different, and whether you are aware of it or not, <emphasis>YOU</emphasis> have changed too. 
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="TheBreakUp_GoodbyeSon">
+	 <p>
+	    Your son rushes towards you and throws himself in your arms. Crying.
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="subject" name="TheBreakUp_ILoveYouSon">
+	 <p>
+       <prosody rate="65%">
+         ¡Te amo tanto mijo! 
+		 ¡Para siempre!
+	   </prosody>	   
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="TheBreakUp_GoodbyeDaughter">
+	 <p>
+	    Your daughter is so big now, and she seldomly shows much emotion around you, but even she is crying as she hugs you goodbye.
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="subject" name="TheBreakUp_ILoveYouDaughter">
+	 <p>
+       <prosody rate="65%">
+         ¡Mi querida hija!
+		 ¡Sin ti, no habría yo!
+		 ¡Te amo mija!
+	   </prosody>	   
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="TheBreakUp_FinalGoodbye">
+	 <p>
+	    As you let go of your daughter, you take to one knee, and hide your face in your hands, crying.
+       <break time="2000ms"/>
+	 </p>	 
+	 <p>
+		For a moment, you feel her hand on your shoulder as she and the children walk by you on their way out of the door. 
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="Healing_TheProcess">
+	 <p>
+	   Now Killer, I'm going to explain a couple of things about life and love, and while I do so, I urge you to breathe Zen to keep you on the beat.
+	 </p>	 
+	 <p>
+	   If you do your own research in terms of how to deal with the ending of a romantic relationship, you will find sources stating that the healing process can take up to 2 years, and will involve transitioning through at least the following 5 stages of grief in some order. 
+	 </p>
+	 <p>
+	   <emphasis level="moderate">Denial</emphasis>
+       <break time="800ms"/>
+	   You refuse to accept that the relationship is over. 
+	 </p>	 
+	 <p>
+	   <emphasis level="moderate">Anger</emphasis>
+       <break time="800ms"/>
+	   I think you know all about anger, don't you Killer? 
+	 </p>	 
+	 <p>
+	   <emphasis level="moderate">Bargaining</emphasis>
+       <break time="800ms"/>
+	   You reason with yourself or your former significant other, that if you did some things differently - like not having sex with your dead boss's wife in an alternate branch of reality - things would be different.
+       They wouldn't!	   
+	 </p>	 
+	 <p>
+	   <emphasis level="moderate">Sadness</emphasis>
+       <break time="800ms"/>
+	   You grieve all that you have lost, in terms of relations and plans for the future, and maybe even the person you were with your significant other. 
+	 </p>	 
+	 <p>
+	   <emphasis level="moderate">Acceptance</emphasis>
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="Healing_MonitoredProcess">
+	 <p>
+	    When going through aforementioned proces, it is adviced that you seek some form of therapeutic help.
+	 </p>
+	 <p>
+	    A trained therapist can help in monitoring the process so you don't go off the deep end, and lose yourself to some form of emotional retardation. 
+		In much the same way the process of making glass windows is monitored by trained professionals to ensure that the heat and energy from the molden glass is gradually released as to not fracture the produce, a good therapist can help to ensure that you gradually work through all of those strong feelings, so they don't fracture your soul.
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="Healing_TheCatch">
+	 <p>
+	    But here is the catch: 
+       <prosody rate="85%">
+    	   <emphasis level="strong">We are not making glass windows!</emphasis>
+	   </prosody>
+	 </p>
+	 <p>
+	   What the self-help gurus fail to mention, is the underlying assemptions about the goal of the healing proces: to get you back on your feet and back with the herd, to create new relationships, new families, take up new mortgages on new houses. To keep the wheels of our society rolling.
+	 </p>
+	 <p>
+	   But the trajectory of your story is different!
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="Healing_PrinceRupertsDrops">
+	 <p>
+	   Now, let me tell you about Prince Rupert's drops. 
+	 </p>
+	 <p>
+	   This physical curiousity is the result of dropping hot molden glass into cold water, producing a glass tear with a long tail. 
+	   Due to the rapid cooling of the outside of the glass formation, the resulting glass structure can withstand incredible amounts of pressure. A small drop can easily withstand the blow from a hammer without shattering. 
+	   However, if the tail of the structure is snipped, a violent chainreaction shoots out small pieces of glass flying at up to 1900 meters per second - or more than 4000 miles per hour.
+	 </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="Healing_HeadUnderWater">
+	 <p>
+	   What I will have you do would normally be considered very bad advice, especially given your history of violent encounters with hobos, drug-addicts and Public-Relations-CEOs, but for the journey you are about to embark on we want to harvest and utilize all those feelings of hurt and anger that is gradually released through the stages of the healing process, for one final extravaganza of violence and blood-shed. You will be a human Prince Rupert's Drop in the fight against evil. 
+	 </p>	 
+	 <p>
+	    Get ready to be dropped into the Cold Sea of Hard Truths!
+         <break time="800ms"/>
+		<emphasis level="strong">NOW</emphasis>
+         <break time="1500ms"/>
+		<emphasis level="strong">Your wife never loved you!</emphasis>
+         <break time="2500ms"/>
+	 </p>	 
+	 <p>
+		<emphasis level="strong">NOW</emphasis>
+         <break time="1500ms"/>
+		 <emphasis level="strong">She was always WAY out of your league!</emphasis>
+         <break time="2500ms"/>
+	 </p>	 	 
+	 <p>
+		<emphasis level="strong">NOW</emphasis>
+         <break time="1500ms"/>
+		<emphasis level="strong">Public opinion amongst the people of the town is divided between those who believe she stayed with you for the money from the opium production and those who believe she stayed out of pity!</emphasis>
+         <break time="2500ms"/>
+	 </p>
+	 <p>
+		<emphasis level="strong">NOW</emphasis>
+         <break time="1500ms"/>
+		<emphasis level="strong">The whole town is laughing at you for believing you had a chance with such a nice woman!</emphasis>
+         <break time="2500ms"/>
+	 </p>	 
+	 <p>
+		<emphasis level="strong">NOW</emphasis>
+         <break time="1500ms"/>
+		<emphasis level="strong">Your children will be a lot better off without you in their daily lives!</emphasis>
+         <break time="2500ms"/>
+	 </p>
+	 <p>
+	   I hope that you have everything bottled up nice and well inside now. 
+       <break time="2500ms"/>
+	 </p>
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="IntoTheStorm">
+	 <p>
+       You go back to the main entrance of your house, and open the door. 
+	   Outside the storm is still raging, now even more fiercely than when you stepped inside. 
+	   An eye of the storm seems to have materialized over the old, evil Slaughterhouse outside the other end of the town, and that is exactly where we are going.
+	 </p>
+	 <p>
+       You make sure to turn off all of the lights in the house before going out, out of the intuitive understanding that you won't be coming back here again.
+       You shut the door, and set off walking into the storm. 	   
+       <break time="2500ms"/>
+	 </p>	
+	 <p>
+       The rain is coming down hard, and the wind is straight against your face as if something is trying to hold you back, so you pick up the pace and start to run. 
+       <break time="2500ms"/>
+	 </p>	 	
+	 <p>
+	   In the face of a storm, some men will stubbornly stand their ground and wait for it to pass, while others will run from it as fast as they can, but you are heading straight into the storm. 
+     </p>	 
+    </spokenPart>
+
+	<spokenPart spokenBy="narrator" name="Outro">
+	 <p>
+       This concludes todays meditation. In the next and final meditation of this series, we will be squaring off against pure evil, but until then you need to head out into the real world and live. 
+       Go get 'em Killer.	   
+     </p>	 
+    </spokenPart>
+		
+</chapter>

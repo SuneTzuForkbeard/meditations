@@ -6,8 +6,8 @@ import java.io.{File}
 
 object GoogleTextToSpeechConverter {
 
-  private val dataFolder = new File("""C:\Users\sune_\OneDrive\Dokumenter\dharma\meditations\Chapter04-TheHighrise""")
-  private val fileNamePrefix = "Chapter 04-TheHighrise"
+  private val dataFolder = new File("""C:\Users\sune_\OneDrive\Dokumenter\dharma\meditations\Chapter05-TheStorm""")
+  private val fileNamePrefix = "Chapter 05-TheStorm"
   private val inputFile = new File(dataFolder, s"$fileNamePrefix.txt")
   private val outputFolder = new File(s"c:\\temp\\meditation-gen\\$fileNamePrefix")
   if(!outputFolder.exists)
